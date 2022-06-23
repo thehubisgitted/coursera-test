@@ -1,0 +1,40 @@
+ul{
+    list-style: none;
+    font-family: monospace;
+    color: pink;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}
+a:active, a:hover{
+    color: pink;
+}
+
+div{
+    text-align: center;
+}
+    
+
+.header {
+    color: pink;
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+}
+
+body{
+    background-color:black;
+    font-family: monospace;
+    color: white;
+    box-sizing: border-box;
+}
+
+p {
+    color: pink;
+}
